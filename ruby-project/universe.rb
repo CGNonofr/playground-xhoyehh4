@@ -1,9 +1,4 @@
-class Universe
-	def countAllStars(*galaxies)
-		$totalStars = 0
-		galaxies.each { |stars| 
-			$totalStars = stars #fix me!
-		}
-		return $totalStars
-	end
-end
+puts "Hello, what is your name ?"
+name = gets
+puts "Oh your name is:"
+puts name
