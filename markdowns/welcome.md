@@ -7,7 +7,7 @@ The source code is on [GitHub](https://github.com/TechDotIO/ruby-template), plea
 
 # Hands-on Demo
 
-@[Luke, how many stars are there in these galaxies?]({"stubs": ["universe.rb"], "command": "ruby universe_test.rb", "tty": true})
+@[Luke, how many stars are there in these galaxies?]({"stubs": ["universe.rb"], "command": "ruby universe.rb", "tty": true})
 
 Check out the markdown file [`welcome.md`](https://github.com/TechDotIO/ruby-template/blob/master/markdowns/welcome.md) to see how this exercise is injected into the template.
 
